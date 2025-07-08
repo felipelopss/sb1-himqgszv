@@ -118,7 +118,7 @@ export default function LoginForm() {
         </div>
 
         <div className="mt-8 text-center text-primary-100 text-sm">
-          © 2025 SIGHE - Sistema de Gestão de Horários Escolares
+          © 2025 SIGHE - Equipe de Criatividade 
         </div>
       </div>
     </div>
